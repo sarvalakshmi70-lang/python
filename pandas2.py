@@ -20,4 +20,8 @@ print(df[df["Mark"] > 80])
 
 print(df[(df["Age"] == 21) & (df["Mark"] > 80)])
 
+<<<<<<< HEAD
 print(df[df["Name"].isin(["Sarva", "gayathri"])])
+=======
+print(df[df["Name"].isin(["Sarva", "gayathri"])])
+>>>>>>> 81407fb5c77827f9b9451079835c5c256cfc7e67
